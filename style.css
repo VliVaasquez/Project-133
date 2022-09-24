@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+
+}
+.heading 
+{
+font-size: 23px;
+width: 50%;
+margin: 10px;
+}
+
+h1
+{
+    color: green;
+}
+
+h2
+{
+    color: cyan;
+}
+
+h3 
+{
+    color: red;
+    
+}
